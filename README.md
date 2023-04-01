@@ -14,3 +14,7 @@ Material 3 is a new design language by Google for the Flutter Material library.
     * The Elevation Screen demonstrates the new supported feature "surfaceTintColor" in the Material library.
     * The Flutter app is an excellent way to discover the latest features in Material 3.
     * You can download the demo and check out the guidance at https://m3.material.io/ to learn more about Material 3.
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01C14bX1Q213CfVoL55Pgr4qXeO2u32h9Q8EP3NUR03kawQcTD0uCnYhy7gBjF9GRw-GTBSsoXupgPDGSiAgqHWdHQu4noYywAuMynsH_t4B73xhKG9XXIpwE9zuteKYl5z22XwkCXYHbF-YzNCq9oOjL-mGcIVMooqMDuvg-Pj7_AViNsbG8dPRb/s16000/material3.jpg" >
+
+https://www.boltuix.com/2023/03/discovering-material-3-sample-flutter.html
