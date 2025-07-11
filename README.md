@@ -1,20 +1,37 @@
-# material3
+# Material 3 Demo App
 
-Material 3 is a new design language by Google for the Flutter Material library.
+## Overview
+
+Material 3 is Google's latest design language for the Flutter Material library, introducing updated components, dynamic color schemes, and adaptive layouts.
+
+## Features
+
+- **Theme Switching**: Toggle between Material 2 and Material 3, with light and dark theme options.
+- **Dynamic Color Palette**: Generate a full color scheme from a single seed color, displayed in both light and dark modes.
+- **Adaptive Layout**: Adjusts UI based on screen size for optimal user experience.
+- **Updated Components**:
+  - AppBar
+  - Buttons
+  - Floating Action Button (FAB)
+  - Card
+  - Dialog
+  - NavigationBar
+  - NavigationRail
+- **Color Screen**: Showcases the complete color scheme derived from a seed color.
+- **Typography Screen**: Displays text styles from the default TextTheme.
+- **Elevation Screen**: Demonstrates the `surfaceTintColor` feature in the Material library.
 
 ## Getting Started
 
-    * Material 3 is a new design language by Google for the Flutter Material library.
-    * We have created a sample Flutter app to showcase Material 3 features.
-    * The app allows users to switch between Material 2 and Material 3, light and dark themes, and different color palettes.
-    * The app has an Adaptive Layout that adjusts based on screen size.
-    * The updated components in the app include AppBar, buttons, FAB, Card, Dialog, NavigationBar, and NavigationRail.
-    * The Color Screen generates a full color scheme from a single seed color and displays all the colors in light and dark palettes.
-    * The Typography Screen shows the text styles used in the default TextTheme.
-    * The Elevation Screen demonstrates the new supported feature "surfaceTintColor" in the Material library.
-    * The Flutter app is an excellent way to discover the latest features in Material 3.
-    * You can download the demo and check out the guidance at https://m3.material.io/ to learn more about Material 3.
+1. **Explore the Demo**: Download the sample Flutter app to interact with Material 3 features.
+2. **Learn More**: Visit [Material 3 Guidance](https://m3.material.io/) for detailed documentation and design guidelines.
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01C14bX1Q213CfVoL55Pgr4qXeO2u32h9Q8EP3NUR03kawQcTD0uCnYhy7gBjF9GRw-GTBSsoXupgPDGSiAgqHWdHQu4noYywAuMynsH_t4B73xhKG9XXIpwE9zuteKYl5z22XwkCXYHbF-YzNCq9oOjL-mGcIVMooqMDuvg-Pj7_AViNsbG8dPRb/s16000/material3.jpg" >
+## Screenshots
 
-https://www.boltuix.com/2023/03/discovering-material-3-sample-flutter.html
+![Material 3 Demo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01C14bX1Q213CfVoL55Pgr4qXeO2u32h9Q8EP3NUR03kawQcTD0uCnYhy7gBjF9GRw-GTBSsoXupgPDGSiAgqHWdHQu4noYywAuMynsH_t4B73xhKG9XXIpwE9zuteKYl5z22XwkCXYHbF-YzNCq9oOjL-mGcIVMooqMDuvg-Pj7_AViNsbG8dPRb/s16000/material3.jpg)
+
+## Resources
+
+- [Demo Source and Guidance](https://m3.material.io/)
+- [Blog Post](https://www.boltuix.com/2023/03/discovering-material-3-sample-flutter.html)
+- [Flutter Boltuix App Template](https://codecanyon.net/item/flutter-boltuix-app-template-2025-premium-flutter-material-design-uix/56270499)
