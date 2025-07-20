@@ -4,6 +4,17 @@
 
 Material 3 is Google's latest design language for the Flutter Material library, introducing updated components, dynamic color schemes, and adaptive layouts.
 
+
+![Flutter](https://img.shields.io/badge/Flutter-%5E2.19.3-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-%5E2.19.3-blue?logo=dart)
+![Version](https://img.shields.io/badge/version-1.0.0+1-green)
+![License](https://img.shields.io/badge/license-MIT-orange)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![GitHub Issues](https://img.shields.io/github/issues/BoltUIX/material3)
+![GitHub Stars](https://img.shields.io/github/stars/BoltUIX/material3?style=social)
+
+
+
 ## Features
 
 - **Theme Switching**: Toggle between Material 2 and Material 3, with light and dark theme options.
